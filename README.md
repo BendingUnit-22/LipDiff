@@ -1,5 +1,5 @@
 # LipDiff
-This repo contains code for differentiable SDP solver, for an anon ICLR submission.
+This repo contains code of the differentiable SDP solver for LipSDP, for an anonymous ICLR submission.
 
 ## Prerequisites
 You need Torch packages (torch and torchvision), cvxpy and mosek solver for this project.
